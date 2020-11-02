@@ -1,5 +1,6 @@
 # ZipCodeChallenge
 **Version 1.0.0**
+
 This is my solution (a simple java program) created for code challenge from WS
 
 ---
